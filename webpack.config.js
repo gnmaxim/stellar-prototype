@@ -17,5 +17,8 @@ module.exports = {
     loaders: [
       { test: /\.css$/, loader: 'style!css' }
     ]
+  },
+  node: {
+    fs: 'empty'
   }
 };

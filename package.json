@@ -25,7 +25,12 @@
   "homepage": "https://github.com/gnmaxim/stellar-prototype#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^4.2.1",
+    "fs": "0.0.1-security",
+    "json-loader": "^0.5.7",
+    "net": "^1.0.2",
+    "request": "^2.83.0",
     "stellar-sdk": "^0.7.5",
+    "tls": "0.0.1",
     "webpack": "^3.8.1"
   },
   "dependencies": {
